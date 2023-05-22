@@ -11,4 +11,4 @@ Yes      No
 
 **Definition:** The type of activity/study that produced the data asset.
 
-HeSANDA will use the value in field [1.10] to indicate the study type
+HeSANDA will use the value in field [1.10] to indicate the study type.
