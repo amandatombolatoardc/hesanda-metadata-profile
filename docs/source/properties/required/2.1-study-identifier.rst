@@ -11,8 +11,6 @@ Yes      No
 
 **Definition:** The trial registration number provided by ANZCTR must be in the DataCite record to enable the HeSANDA portal to associate a DataCite metadata record with an ANZCTR metadata record.
 
-ANZCTR trial registration number 
-
 *Metadata fields:*
 
 .. contents:: :local:
