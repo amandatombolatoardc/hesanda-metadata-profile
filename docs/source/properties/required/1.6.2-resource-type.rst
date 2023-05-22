@@ -32,4 +32,4 @@ DataCite 10. ResourceType
 
 **Example input:** MUST be "Individual Participant Data (IPD)"
 
-**Controlled vocabulary source** HeSANDA
+**Controlled vocabulary source:** HeSANDA
