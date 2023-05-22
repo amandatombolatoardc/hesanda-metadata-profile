@@ -69,3 +69,9 @@ Other artifacts of the study, such as a data dictionary or study protocol, can a
 * Publisher
 * Publication year
 * Resource type general - "Text" for a data dictionary, "Workflow" for a study protocol
+
+How can I remove a dataset from the portal?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If a dataset needs to be withdrawn, the DOI needs to be edited so that it points to a "Tombstone" page, but left Findable state.
+If a DOI was created in error, its "state" needs to be to be changed from a Findable to a Registered state. This will stop the dataset from appearing in the portal.
+
