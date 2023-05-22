@@ -131,10 +131,10 @@ DataCite 19.2.b SchemeURI
 
 **Input type:** Nil
 
-**Example input:** https://www.crossref.org/ser
-vices/funder-registry/
+**Example input:** https://www.crossref.org/services/funder-registry/
 
 **Controlled vocabulary source:** Examples:
+
 * https://www.crossref.org/services/funder-registry/
 * https://ror.org/
 
