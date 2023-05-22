@@ -89,9 +89,7 @@ DataCite 18.1 geoLocationPoint
 
 **Controlled vocabulary source:** Nil
 
-**Notes:**
-
-Decimal representation of longitude and latitude, negatives being south and west, positives being north and east.
+**Notes:** Decimal representation of longitude and latitude, negatives being south and west, positives being north and east.
 
 .. _18.1.1:
 
@@ -225,7 +223,7 @@ DataCite 18.4 geoLocationPolygon
 
 **Input type** List of coordinates (at least three to draw a triangle)
 
-**Notes**
+**Notes:**
 
 .. _18.4.1:
 
@@ -240,9 +238,7 @@ DataCite 18.4.1 polygonPoint
 
 **Controlled vocabulary source:** Nil
 
-**Notes:**
-
-A polygon is delimited by geographic points. Each point is defined by a longitude latitude pair. The last point should be the same as the first point.
+**Notes:** A polygon is delimited by geographic points. Each point is defined by a longitude latitude pair. The last point should be the same as the first point.
 
 .. _18.4.1.1:
 
@@ -287,9 +283,7 @@ DataCite 18.4.2 inPolygonPoint
 
 **Controlled vocabulary source:** Nil
 
-**Notes:**
-
-inPolygonPoint is only necessary to indicate the "inside" of the polygon if the polygon is larger than half the earth. Otherwise the smallest of the two areas bounded by the polygon will be used.
+**Notes:** inPolygonPoint is only necessary to indicate the "inside" of the polygon if the polygon is larger than half the earth. Otherwise the smallest of the two areas bounded by the polygon will be used.
 
 .. _18.4.2.1:
 
